@@ -3,327 +3,327 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Joey\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0\49eb3ad545e7701234e4dd83db8dc1344b577f23\converter-gson-2.0.0.jar"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0_322939592579a9804994799687c0c52cb5e38c84.jar" />
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_ea8e7044e489f92b2a6d139c0c1177baff756712.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Joey\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.0.4\9c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0\kotlin-stdlib-1.0.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="09c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.0.4_5229cbbd7a4c23c2a9673a78d4f2c3707146332c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_6710971db4c7068f77d43479def419f896acfac7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9a7cad818674e09b1c4a89c4123b3476332d3641.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_69ba631975c23e89fee8e93de61879981a8aca6a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_16da05b0b881f752af60a1b5d07fb4629ce93343.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_d4e352b4a4a0a7bb39a2fdcf988588cf5b5b19c1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_10d38b39d4892646d918acef602d8889eb28e536.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_5cf619ead6ca23ae9831b5288fe3721e9919b473.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_d504c70479e01435f003614025fa8b5a591810e5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_0ee46d4db484e5c8654ff617faefe62f271b038f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_11df912e78b2785098ef7bfe4b01b042a42a8a14.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_2aef8ff219062147dacc574d2bf00bf21830994c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.github.Raizlabs.DBFlow\dbflow\4.0.0-beta1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7becf15dad3e845f24b2191034be3ca4c6c31249">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.github.Raizlabs.DBFlow-dbflow-4.0.0-beta1_14539c6357fe74e8c76a7ea8c38c39154787feec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_915dff068b7feb76cd00f00d813724fed33bbdb1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_6e56ef9cc8e37d0c31394509f342eed4e8d2a9a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_af347cbc2cb8498ad2c37f02f26b8e714b26c01c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_22947a5a345bdb021d9a33cf19fab8c3cb44f156.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8a372c4191f80489770a231f7be4820b204b886a">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_25bd3512b3789812482e596ecd1ace8b85a5c262.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f9dace22c4b385d67e2afe126ac4195b7454e43a">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.pnikosis-materialish-progress-1.1_85e6ca5ee4577fbe474a688334756d6837f656c7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_0c5ee4248bd6d5e1b9c1508b480b8ee9757660bf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5025063c4c03baa1b6759432195024dd8e5a3f92">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-25.0.0_b2195ec4a2f775aa062baed7ea4fc956b4934107.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0_fa9b88cd2121daa00ca767f49f330bd0d0b18674.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_6edcbdde3003c240b600e639e25d88f4d33241cc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\gson-2.6.1_f9966626f2e187da2cd07f13bf5b20798a245fdd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\.gradle\caches\modules-2\files-2.1\com.github.Raizlabs.DBFlow\dbflow-core\4.0.0-beta1\ce9d2f83c5f824ef90793e6e5353570a64cce211\dbflow-core-4.0.0-beta1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ce9d2f83c5f824ef90793e6e5353570a64cce211">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\dbflow-core-4.0.0-beta1_87a23d8743922cf10b5dfce1f652ded200e6a7a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8991ae985cda97ebcd5e22edb6670abceeb0c021.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c661a047fada767a71cfb7cd843c5cb5fe83f142.jar" />
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/okio-1.6.0_ab0734696e802a8605e36490e296818cf6dc881f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.github.Raizlabs.DBFlow\dbflow-kotlinextensions\4.0.0-beta1\jars\classes.jar"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.4/9c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0/kotlin-stdlib-1.0.4.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="ef1986f79bdad2c7bd9c62d83e5768800da126a7">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.github.Raizlabs.DBFlow-dbflow-kotlinextensions-4.0.0-beta1_b52a1c3b3e9891ab4200b46b78dbe9883b3e5f90.jar" />
+        sha1="09c8d1a5d2eea3c9a7f58baa1a2fa11498cb41d0">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.0.4_addd29e7ed5d8a2bee894076dc49d112cc879e67.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_e2bea4696e401107e5f874cfcc05d2f00260bb94.jar" />
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_2a644323b25d193a8d3f84286e3192fbfe3c7d79.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Joey\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-runtime\1.0.4\8e25da5e31669f5acf514bdd99b94ff5c7003b3b\kotlin-runtime-1.0.4.jar"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_47d25379fd1f818d6017758df7424ed6b78b1f2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_3c4bb188d0682cfe6ce76905726062196e40aa46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow-core/4.0.0-beta1/ce9d2f83c5f824ef90793e6e5353570a64cce211/dbflow-core-4.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce9d2f83c5f824ef90793e6e5353570a64cce211">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/dbflow-core-4.0.0-beta1_5ffe2bc4537818af75bb68529ed963eed6c82b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_db97a5b6983614fa429e44b90f7151c4d4aeac2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9dace22c4b385d67e2afe126ac4195b7454e43a">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.pnikosis-materialish-progress-1.1_f23153fb27feb6ee24ff8be1fc3e1c5336e69f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_0a3395d506cf626b4e2d5106c3cf58b26b1d6fa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_99a9074f774c81eca6578f340f080924993ce217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/gson-2.6.1_8eda951d7e345ea6e618b67d97a12adf08e78738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.4/8e25da5e31669f5acf514bdd99b94ff5c7003b3b/kotlin-runtime-1.0.4.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="8e25da5e31669f5acf514bdd99b94ff5c7003b3b">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\kotlin-runtime-1.0.4_314d7d07135a3917a6e5cf79fa412df8e6f5b920.jar" />
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/kotlin-runtime-1.0.4_06e4971a767fd60839ce679725bb6954a0e9d4d5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Joey\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_5b1b90522a38fe926544b2580e70a4372b5d8310.jar" />
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_929c2f9bd58cc5b226dfbece1343f7a08db0ea51.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_bb476a17c1e482aa8aa4d375413023f3d77cfb3b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_9f9b609be41fcdc1cf7f46f45c8108e4463f022c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.1.2\a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0\logging-interceptor-3.1.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.1.2_9e5939ea422d695640376ec6ad0ac9d544f0f346.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\Joey\Documents\DrinkExplorer\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_e0ec7b5426ddda336cb99e029061d8ce4b7e2581.jar" />
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f9315811b4a663e098d455cb7d6f11ed53353e2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.github.Raizlabs.DBFlow/dbflow-kotlinextensions/4.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef1986f79bdad2c7bd9c62d83e5768800da126a7">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.github.Raizlabs.DBFlow-dbflow-kotlinextensions-4.0.0-beta1_edc7ff34ddc2a58dfb3ee3c0b40bfb46abc3d80c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_27b98eedf04993d62f2bfa0b69d8747a5c3cf2e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_e3ec21318aef12ea43798bf8ea1538b3b6ee7524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_1e4f2fb93aeaad6a22452a0d070e563ca3c3ecf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.github.Raizlabs.DBFlow/dbflow/4.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7becf15dad3e845f24b2191034be3ca4c6c31249">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.github.Raizlabs.DBFlow-dbflow-4.0.0-beta1_a16d08fa9057508a78610a0f168a45acd398644c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.1.2/a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0/logging-interceptor-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.1.2_f3473f833b7f2051dc05c61c41b95f59238c1cfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_8399e90d8a77c4571a2dc627e9a6cf46e6237c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_c3adbb1361c73bfccb7ff1ecc33fb8477c5dd906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-25.0.1_75aec4477a5821f1bac3af3e339423e18c6427db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_a90420dbf4d1cff07cf704538dacea7bab55dbc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_a92e5fd23c20267bc3d6e22716eeeda91f3c3d2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_85d25b837ac2ad8d70fd1537f1ccaa13492b5bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_a6967178cbc11b12c59a0d8275c26e368b1d5357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_3e624e4c7c29ddcbd974727e03ca90d47aad137b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.0.0_29353ad63ce0ff89e82424fba023064b90b43c0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a5edc39eb4e8acb29b4bda5a26c5e45e2f1d3bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_e99b684404d52a7a9484db115bdecb41b908b4a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0_da8d53ec2a582e1c255bdf83c1bcd336fd01e076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0_c12ad297632514f03b3f84533aeb4e2a4e89dd38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3992cc0ec07e6f6a228361b5321cdde038a95cc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wittig/DrinkExplorer/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/wittig/DrinkExplorer/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_16e37c8dc4d96f94d11753a759aa35b8e5c4c31b.jar" />
     </item>
 
 </items>

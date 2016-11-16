@@ -3,8 +3,12 @@ package com.skiefboom.cocktailexplorerwithapi.data.api;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.skiefboom.cocktailexplorerwithapi.data.api.deserializers.CocktailDeserializer;
+import com.skiefboom.cocktailexplorerwithapi.data.api.deserializers.IngredientDeserializer;
+import com.skiefboom.cocktailexplorerwithapi.data.api.deserializers.TasteDeserializer;
 import com.skiefboom.cocktailexplorerwithapi.data.api.resources.Drinks;
 import com.skiefboom.cocktailexplorerwithapi.data.database.models.Drink;
+import com.skiefboom.cocktailexplorerwithapi.data.database.models.Ingredient;
+import com.skiefboom.cocktailexplorerwithapi.data.database.models.Taste;
 
 import java.io.IOException;
 
@@ -74,6 +78,8 @@ public class Api {
         return new GsonBuilder()
                 .excludeFieldsWithoutExposeAnnotation()
                 .registerTypeAdapter(Drink.class, new CocktailDeserializer())
+                .registerTypeAdapter(Ingredient.class, new IngredientDeserializer())
+                .registerTypeAdapter(Taste.class, new TasteDeserializer())
                 .create();
     }
 }

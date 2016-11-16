@@ -9,7 +9,6 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Toast;
 
 import com.raizlabs.android.dbflow.sql.language.SQLite;
 import com.skiefboom.cocktailexplorerwithapi.R;
@@ -84,7 +83,7 @@ public class SuggestionActivityFragment extends Fragment {
 
                 int count = PersistentHelper.getDrinkCount();
 
-                getDrinks(count);
+                getDrinks(count + 11);
             }
         };
 
@@ -112,7 +111,7 @@ public class SuggestionActivityFragment extends Fragment {
         attrs.put("start", String.valueOf(fromCount));
         attrs.put("pageSize", String.valueOf(10));
 
-        Api.drinks.getCocktails(attrs).enqueue(new ApiCallback<DrinkListResponse>() {
+        Api.drinks.getDrinks(attrs).enqueue(new ApiCallback<DrinkListResponse>() {
             @Override
             public void onOK(Call<DrinkListResponse> call, Response<DrinkListResponse> response) {
 
@@ -121,7 +120,7 @@ public class SuggestionActivityFragment extends Fragment {
                     spinnerAdded = false;
                 }
 
-                PersistentHelper.setDrinkCount(fromCount + 10);
+                PersistentHelper.setDrinkCount(fromCount);
                 refreshData();
             }
 

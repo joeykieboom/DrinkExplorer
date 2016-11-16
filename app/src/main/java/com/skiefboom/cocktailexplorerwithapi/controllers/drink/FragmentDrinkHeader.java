@@ -24,7 +24,7 @@ public class FragmentDrinkHeader extends Fragment {
 
     @BindView(R.id.fragment_drink_header_cocktail_name) TextView cocktailName;
     @BindView(R.id.fragment_drink_header_cocktail_subtitle) TextView cocktailSubtitle;
-    @BindView(R.id.fragment_drink_header_circle_image) CircleImageView cocktailImage;
+//    @BindView(R.id.fragment_drink_header_circle_image) CircleImageView cocktailImage;
 
     public FragmentDrinkHeader() {
         // Required empty public constructor

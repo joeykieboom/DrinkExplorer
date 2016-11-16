@@ -22,7 +22,7 @@ public class DrinkActivityFragment extends Fragment {
     protected Drink drink;
 
     @BindView(R.id.fragment_drink_image_toolbar) ImageView toolbarImage;
-    @BindView(R.id.fragment_drink_fragment_header) Fragment fragmentHeader;
+//    @BindView(R.id.fragment_drink_fragment_header) Fragment fragmentHeader;
 
     public DrinkActivityFragment() {
     }
@@ -52,7 +52,7 @@ public class DrinkActivityFragment extends Fragment {
 
     public void setHeaderInfo() {
 
-        FragmentDrinkHeader header = (FragmentDrinkHeader) fragmentHeader;
-        header.updateHeader(drink);
+//        FragmentDrinkHeader header = (FragmentDrinkHeader) fragmentHeader;
+//        header.updateHeader(drink);
     }
 }

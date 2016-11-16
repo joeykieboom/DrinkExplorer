@@ -11,5 +11,5 @@ import retrofit2.http.QueryMap;
 public interface Drinks {
 
     @GET("drinks")
-    Call<DrinkListResponse> getCocktails(@QueryMap Map<String, String> attrs);
+    Call<DrinkListResponse> getDrinks(@QueryMap Map<String, String> attrs);
 }

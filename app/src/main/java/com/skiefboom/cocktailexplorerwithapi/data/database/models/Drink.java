@@ -9,6 +9,7 @@ import com.raizlabs.android.dbflow.sql.language.SQLite;
 import com.skiefboom.cocktailexplorerwithapi.data.database.CocktailExplorerDB;
 
 import java.io.Serializable;
+import java.util.List;
 
 @Table(database = CocktailExplorerDB.class)
 public class Drink extends BaseModel<Drink> implements Serializable {
@@ -48,6 +49,12 @@ public class Drink extends BaseModel<Drink> implements Serializable {
     @Expose
     @Column
     public boolean saved;
+
+    @Expose(serialize = false)
+    public List<Ingredient> ingredients;
+
+    @Expose(serialize = false)
+    public List<Taste> tastes;
 
     public static Drink getById(int id) {
 
