@@ -72,8 +72,10 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
             }
         });
 
-        viewPlaceHolder.setVisibility(GONE);
-        cocktailRV.setVisibility(View.VISIBLE);
+        if (drinks.size() > 1) {
+            viewPlaceHolder.setVisibility(GONE);
+            cocktailRV.setVisibility(View.VISIBLE);
+        }
     }
 
     @Override

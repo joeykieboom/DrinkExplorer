@@ -23,6 +23,10 @@
         <activity
             android:name=".controllers.suggestion.SuggestionActivity"
             android:label="@string/title_activity_suggestion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".controllers.drink.DrinkActivity"
+            android:label="@string/title_activity_drink"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

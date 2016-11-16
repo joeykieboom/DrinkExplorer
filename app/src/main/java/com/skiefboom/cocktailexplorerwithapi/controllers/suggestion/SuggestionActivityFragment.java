@@ -1,5 +1,6 @@
 package com.skiefboom.cocktailexplorerwithapi.controllers.suggestion;
 
+import android.content.Intent;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
@@ -12,6 +13,7 @@ import android.widget.Toast;
 
 import com.raizlabs.android.dbflow.sql.language.SQLite;
 import com.skiefboom.cocktailexplorerwithapi.R;
+import com.skiefboom.cocktailexplorerwithapi.controllers.drink.DrinkActivity;
 import com.skiefboom.cocktailexplorerwithapi.controllers.suggestion.data.SuggestionAdapter;
 import com.skiefboom.cocktailexplorerwithapi.data.api.Api;
 import com.skiefboom.cocktailexplorerwithapi.data.api.ApiCallback;
@@ -94,10 +96,9 @@ public class SuggestionActivityFragment extends Fragment {
 
                 if (drink != null) {
 
-                    Toast.makeText(getContext(), drink.drinkId, Toast.LENGTH_SHORT).show();
-
-                    drink.saved = true;
-                    drink.save();
+                    Intent intent = new Intent(getContext(), DrinkActivity.class);
+                    intent.putExtra(DrinkActivity.DRINK_ID, drink.id);
+                    startActivity(intent);
                 }
             }
         }));
